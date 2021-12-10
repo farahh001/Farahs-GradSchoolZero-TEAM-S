@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1DAu1bj3FWoDtEsOTPkQOJbSO8nXbTuFDSy1ARNMdvVw/
 
 ## Instructions to run the project
 
-1. First create django environment to the local machine
+1. First clone the repository and go to the project folder. Next,create virtual environment following the command below
 
 `python3 -m venv env`
 
