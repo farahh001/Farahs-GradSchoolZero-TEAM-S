@@ -52,3 +52,7 @@ source env/bin/activate
 1. For that we have to create SuperUser. In the Windows Terminal, First activate the environment. Then type
  `python manage.py createsuperuser`
 It will ask for username and password to activate the superuser duties.
+
+-> You can apply as as instructor or student 
+-> After admin accepts new instructor or student, a UUID is given at the top which can be used to make an account for instructor and student 
+-> Use your new account credentials to login as student or instructor 
