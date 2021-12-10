@@ -18,18 +18,18 @@ https://docs.google.com/document/d/1DAu1bj3FWoDtEsOTPkQOJbSO8nXbTuFDSy1ARNMdvVw/
 
 2. Activate the environment
 
-Windows Command: 
+### Windows Terminal: 
 `env\Scripts\activate`
 
-gitbash:
+### gitbash:
 
 `source env Scripts\activate`
 
 
-Mac: 
+### Mac: 
 source env/bin/activate 
 
-3. Install the following libraries. Also mentioned in the requirements.txt file
+3. Install the libraries.
 
 
 `pip install -r requirements.txt`
