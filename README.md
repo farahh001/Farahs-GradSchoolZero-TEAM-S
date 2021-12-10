@@ -1,7 +1,7 @@
-# Farahs_GradSchoolZero-TEAM-S
+# TEAM-S GradSchoolZero
+CSC 32200 Software Engineering Final Project
 
-# GradSchoolZero
-The application is a graduate program management system that can be used by Registrars, Instructors, students and visitors in the Graduate School.
+# The application is a graduate program management system that can be used by Registrars, Instructors, students and visitors in the Graduate School.
 
 `Phase I report:'
 `
