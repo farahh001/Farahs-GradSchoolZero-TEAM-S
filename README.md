@@ -28,8 +28,8 @@ source env/bin/activate
 
 
 python3 -m pip install Django
-python3 -m pip install --upgrade Pillow
-python pip install celery
+pip install Pillow
+pip install celery
 pip install django-crispy-forms
 pip install django-tinymce
 
