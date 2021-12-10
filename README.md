@@ -49,6 +49,6 @@ source env/bin/activate
 
 ## To handle the register responsibilities
 
-1. For that we have to create supersuper. In the Windows Terminal, First activate the environment. Then type
+1. For that we have to create SuperUser. In the Windows Terminal, First activate the environment. Then type
  `python manage.py createsuperuser`
-It will ask for username and password to activate the superuser side.
+It will ask for username and password to activate the superuser duties.
